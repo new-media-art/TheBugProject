@@ -1,6 +1,6 @@
 # TheBugProject
 
-## A cockroach living in a postapocaliptical world finds out about the existance of a long forgotten seed bank an decides to find it in order the make the world green again. ##
+## A cockroach living in a postapocalyptic world finds out about the existence of a long-forgotten seed bank an decides to find it in order the make the world green again. ##
 
 ![Image](https://github.com/new-media-art/TheBugProject/blob/main/assets/page11.png)
 
