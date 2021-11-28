@@ -250,7 +250,7 @@ function fetchPage(page) {
         {
           character: 'page-8',
           page: 6,
-          narrative: 'You find your good friend Grompf repairing it\'s haus.',
+          narrative: 'You find your good friend Grompf repairing it\'s house.',
           options: [
             { option: 'Next',   nextPage: 202 },
             
@@ -344,6 +344,15 @@ function fetchPage(page) {
             { option: 'Good idea. You never know!', nextPage: 17 },
           ]
         },
+
+        {
+          character: 'page-38',
+          page: 16,
+          narrative: 'You get lost in the desert and end up dying of thirst.',
+          options: [
+            { option: 'Play again',   nextPage: 1 },
+          ]
+        },
      
         {
           character: 'page-18',
@@ -385,7 +394,7 @@ function fetchPage(page) {
        {
          character: 'page-22',
          page: 22,
-         narrative: 'Unfortunately after decades of desertification, pollution and high levels of radioactivity nothing grows anymore . . .',
+         narrative: 'It will take time, but the Earth will flourish again.',
          options: [
              { option: 'Next',   nextPage: 220 },
          ]
@@ -450,7 +459,7 @@ function fetchPage(page) {
         {
           character: 'page-27',
           page: 26,
-          narrative: 'You buy the game and spend the rest of the week playing it locked at home, in your cave..',
+          narrative: 'You buy the game and spend the rest of the week playing it locked at home, in your cave...',
           options: [
              { option: 'Play again',   nextPage: 1 },
           ]
