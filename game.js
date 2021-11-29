@@ -3,7 +3,7 @@ let gameState = {}
 function preload () {
   // load in background and characters
   this.load.image('bg',     'assets/bgX.jpg');
-  this.load.image('intro', 'assets/page1.png', { frameWidth: 680, frameHeight: 570  });
+  this.load.image('intro', 'assets/intro.png', { frameWidth: 680, frameHeight: 570  });
   this.load.image('page-2',    'assets/page2.png', { frameWidth: 680, frameHeight: 570 });
   this.load.image('page-3', 'assets/page3.png', { frameWidth: 680, frameHeight: 570 });
   this.load.image('page-4', 'assets/page4.png', { frameWidth: 680, frameHeight: 570 });
